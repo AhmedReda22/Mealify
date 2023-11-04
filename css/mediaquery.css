@@ -12,6 +12,18 @@
         width: 95%;
     }
 
+    nav .navs ul li {
+        padding: 25px 7px;
+    
+    }
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: left;
+    
+    }
+    
+
     #home {
         height: auto;
     }
@@ -93,17 +105,17 @@
 
     #contact .contact-details .address {
         width: 100%;
-        border-right: 0px solid #fff;
-        border-bottom: 8px solid #fff;
-        border-top: 8px solid #fff;
+        border-right: 0px solid #202020;
+        border-bottom: 8px solid #202020;
+        border-top: 8px solid #202020;
     }
 
     #contact .contact-details .address1 {
         width: 100%;
-        border-right: 0px solid #fff;
-        border-bottom: 0px solid #fff;
-        border-top: 8px solid #fff;
-        border-left: 0px solid #fff;
+        border-right: 0px solid #202020;
+        border-bottom: 0px solid #202020;
+        border-top: 8px solid #202020;
+        border-left: 0px solid #202020;
     }
 
 
@@ -174,6 +186,17 @@
 @media all and (min-width:576px) and (max-width:767px) {
     .container {
         width: 77%;
+    }
+
+    nav .navs ul li {
+        padding: 25px 7px;
+    
+    }
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: left;
+        padding-right: 5px;
     }
 
     #home {
@@ -282,17 +305,17 @@
 
     #contact .contact-details .address {
         width: 100%;
-        border-right: 0px solid #fff;
-        border-bottom: 8px solid #fff;
-        border-top: 8px solid #fff;
+        border-right: 0px solid #202020;
+        border-bottom: 8px solid #202020;
+        border-top: 8px solid #202020;
     }
 
     #contact .contact-details .address1 {
         width: 100%;
-        border-right: 0px solid #fff;
-        border-bottom: 0px solid #fff;
-        border-top: 8px solid #fff;
-        border-left: 0px solid #fff;
+        border-right: 0px solid #202020;
+        border-bottom: 0px solid #202020;
+        border-top: 8px solid #202020;
+        border-left: 0px solid #202020;
     }
 
 
